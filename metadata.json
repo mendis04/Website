@@ -1,0 +1,8 @@
+{
+  "name": "Dream Education Studio",
+  "description": "A high-end production and booking system for elite online educators, featuring real-time studio reservations, credit-based packages, and administrative logistics management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
